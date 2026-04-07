@@ -1,4 +1,3 @@
-![stats](https://github-readme-stats.vercel.app/api?username=rmdkarhdwn)
 # 👋 김일강
 
 저는 개발과 창작을 결합해  
@@ -26,13 +25,19 @@
 
 ---
 
-## Tech
+## 🛠 Tech
 
-- Flutter / Dart / React Native
-- React / Svelte kit / TypeScript / JavaScript
-- Python
-- Docker
-- PostgreSQL
+### 📱 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+
+### 🧩 Backend
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ Others
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -47,3 +52,5 @@
 ## Links
 
 - Velog: https://velog.io/@oneriever/posts
+
+![stats](https://github-readme-stats.vercel.app/api?username=rmdkarhdwn)
