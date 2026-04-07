@@ -53,4 +53,4 @@
 
 - Velog: https://velog.io/@oneriever/posts
 
-![stats](https://github-readme-stats.vercel.app/api?username=rmdkarhdwn)
+![stats](https://github-readme-stats.vercel.app/api?username=rmdkarhdwn&show_icons=true&theme=default&hide_border=true)
